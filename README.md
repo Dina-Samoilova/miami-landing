@@ -6,6 +6,6 @@ One main page with header, navigation, main and footer parts. Main part have 4 s
 Navigation menu is have to be hide util use not click on it. 
 Page is adaptive to different size of screen.
 
-Were used SASS preprocessor and BEM methodology (one step off it is conteiner class for all sections and parts), 
+Were used SCSS and BEM (one step off it is conteiner class for all sections and parts), 
 also used grid styling, media queries, transformations, worked with form.
 
